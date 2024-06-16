@@ -1,6 +1,5 @@
-# TASK-MANAGEMENT-APPLICATION
+# TASKMANAGEMENT
 
-# Taskify - Simple Task Management App
 
 Taskify is a web-based task management application designed to help individuals or teams organize their tasks efficiently.
 
